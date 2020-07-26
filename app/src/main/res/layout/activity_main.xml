@@ -11,7 +11,9 @@
         android:id="@+id/tvSarabunRegular"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/sarabun_regular" />
+        android:fontFamily="@font/sarabun_regular"
+        android:text="Android Spread"
+        android:textSize="30dp" />
 
     <TextView
         android:id="@+id/tvSarabunItalic"
@@ -19,7 +21,9 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvSarabunRegular"
         android:layout_marginTop="30dp"
-        android:fontFamily="@font/sarabun_italic" />
+        android:fontFamily="@font/sarabun_italic"
+        android:text="Android Spread"
+        android:textSize="30dp" />
 
     <TextView
         android:id="@+id/tvSarabunBold"
@@ -27,7 +31,9 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvSarabunItalic"
         android:layout_marginTop="30dp"
-        android:fontFamily="@font/sarabun_bold" />
+        android:fontFamily="@font/sarabun_bold"
+        android:text="Android Spread"
+        android:textSize="30dp" />
 
     <TextView
         android:id="@+id/tvSarabunBoldItalic"
@@ -35,6 +41,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvSarabunBold"
         android:layout_marginTop="30dp"
-        android:fontFamily="@font/sarabun_bold_italic" />
+        android:fontFamily="@font/sarabun_bold_italic"
+        android:text="Android Spread"
+        android:textSize="30dp" />
 
 </RelativeLayout>
