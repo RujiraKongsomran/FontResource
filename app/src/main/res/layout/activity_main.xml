@@ -12,8 +12,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/sarabun_regular"
-        android:text="Android Spread"
-        android:textSize="30dp" />
+        android:text="แอนดรอยด์ สเปรด"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="40dp" />
 
     <TextView
         android:id="@+id/tvSarabunItalic"
@@ -22,8 +23,9 @@
         android:layout_below="@+id/tvSarabunRegular"
         android:layout_marginTop="30dp"
         android:fontFamily="@font/sarabun_italic"
-        android:text="Android Spread"
-        android:textSize="30dp" />
+        android:text="แอนดรอยด์ สเปรด"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="40dp" />
 
     <TextView
         android:id="@+id/tvSarabunBold"
@@ -32,8 +34,9 @@
         android:layout_below="@+id/tvSarabunItalic"
         android:layout_marginTop="30dp"
         android:fontFamily="@font/sarabun_bold"
-        android:text="Android Spread"
-        android:textSize="30dp" />
+        android:text="แอนดรอยด์ สเปรด"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="40dp" />
 
     <TextView
         android:id="@+id/tvSarabunBoldItalic"
@@ -42,7 +45,8 @@
         android:layout_below="@+id/tvSarabunBold"
         android:layout_marginTop="30dp"
         android:fontFamily="@font/sarabun_bold_italic"
-        android:text="Android Spread"
-        android:textSize="30dp" />
+        android:text="แอนดรอยด์ สเปรด"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="40dp" />
 
 </RelativeLayout>
